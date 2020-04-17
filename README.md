@@ -21,6 +21,13 @@ The implemented antennas are :
   - A 2.4 GHz IFA antenna (used for wifi sniffing by the LR1110).
   - A u.Fl port to have the possibility to connect an external antenna.
 
+---
+
+## How it's made
+To lower the costs and the complexity, we designed two 2-layers boards: one with the circuitry and one with all of the antennas. The two boards are assembled with simple headers pins to connect them.
+
+Here is a preview of the "Base" PCB and the "Ant" PCB:
+
 <p>
   <img src="img/mUCA_Base_top.svg" alt="drawing" width="450"/>
   <img src="img/mUCA_Ant_bottom.svg" alt="drawing" width="450"/>
