@@ -32,6 +32,22 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
   <img src="img/mUCA_Ant_bottom.svg" alt="drawing" width="450"/>
 </p>
 
+## TO-DO List
+- [x] 1. Finishing Schematic
+- [x] 2. Finishing Layout
+- [x] 3. Generate BOM
+- [x] 4. Order components
+- [x] 5. Order PCBs
+- [ ] 6. Create placement document
+- [ ] 7. Assemble the boards
+- [ ] 8. Program the GPIO of the mcu
+- [ ] 9. Test the whole board (LEDs, Sensors, SPI links)
+- [ ] 10. Test the radiation of the onboard antennas
+- [ ] 11. Create the code to automatically choose which port to use on the CP Antennas (see below)
+- [ ] 12. Test LoRa Transmission in real environements
+- [ ] 13. Test GNSS power consumption with real case usage
+- [ ] 14. Publishing the results.
+
 ## Timeline
 | Event                         | Date          |
 | ----------------------------- | ------------- |
@@ -42,3 +58,11 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
 | BOM Complete                  | 06 Apr 2020   |
 | Ordered Components            | 10 Apr 2020   |
 | Sent PCB to fabhouse          | 13 Apr 2020   |
+
+## Onboard sensors
+Two sensors are presents on the PCB :
+  - One Accelerometer
+  - One BME280
+
+With the accelerometer we can determine the orientation of the device and then choose the polarization to maximize the range of the device.
+The BME280 (Temp/Humidity/Pressure) is just for testing.
