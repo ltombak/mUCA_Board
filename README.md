@@ -3,5 +3,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
-<img src="img/mUCA_Base_top.svg" alt="drawing" width="300"/>
-<img src="img/mUCA_Ant_bottom.svg" alt="drawing" width="300"/>
+<p>
+  <img src="img/mUCA_Base_top.svg" alt="drawing" width="400"/>
+  <img src="img/mUCA_Ant_bottom.svg" alt="drawing" width="400"/>
+</p>
