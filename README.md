@@ -4,6 +4,6 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/ltombak/mUCA_Board/blob/master/img/mUCA_Ant_3DRender.PNG)]()
+[![](https://github.com/ltombak/mUCA_Board/blob/master/img/mUCA_Ant_3DRender.PNG)]()
 
-<img src='https://github.com/ltombak/mUCA_Board/blob/master/img/mUCA_Ant_3DRender.PNG'>
+![](./img/mUCA_Ant_3DRender.PNG =250x)
