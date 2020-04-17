@@ -6,4 +6,4 @@
 
 [![](https://github.com/ltombak/mUCA_Board/blob/master/img/mUCA_Ant_3DRender.PNG)]()
 
-![](https://github.com/ltombak/mUCA_Board/blob/master/img/mUCA_Ant_3DRender.PNG =250x)
+<img src="img/mUCA_Ant_3DRender.PNG" alt="drawing" width="200"/>
