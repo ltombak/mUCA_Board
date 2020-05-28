@@ -38,8 +38,8 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
 - [x] 3. Generate BOM
 - [x] 4. Order components
 - [x] 5. Order PCBs
-- [ ] 6. Create placement document
-- [ ] 7. Assemble the boards
+- [x] 6. Create placement document
+- [x] 7. Assemble the boards
 - [ ] 8. Program the GPIO of the mcu
 - [ ] 9. Test the whole board (LEDs, Sensors, SPI links)
 - [ ] 10. Test the radiation of the onboard antennas
@@ -58,6 +58,8 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
 | BOM Complete                  | 06 Apr 2020   |
 | Ordered Components            | 10 Apr 2020   |
 | Sent PCB to fabhouse          | 13 Apr 2020   |
+| PCBs Received                 | 15 May 2020   |
+| first assembly                | 22 May 2020   |
 
 ## Onboard sensors
 Two sensors are presents on the PCB :
