@@ -6,9 +6,9 @@
 
 
 ## Description
-This is a board that use the new LR110 chip from Semtech (see https://www.semtech.com/products/wireless-rf/lora-transceivers/lr1110) and the STM32WB (see https://www.st.com/en/microcontrollers-microprocessors/stm32wb-series.html).
+This is a board that use the new LR1110 chip from Semtech (see https://www.semtech.com/products/wireless-rf/lora-transceivers/lr1110) and the STM32WB (see https://www.st.com/en/microcontrollers-microprocessors/stm32wb-series.html).
 
-The main goal of this developpment board is to see how we can improve the range of IoT devices in differents environements using the right (low-cost) antenna.
+The main goal of this development board is to see how we can improve the range of IoT devices in differents environements using the right (low-cost) antenna.
 To do that, we incroporated multiple antenna one the same PCB:
   - A *classic* 868 MHz IFA antenna.
   - A Circular Polarization Antenna, designed by Fabien Ferrero.
@@ -38,8 +38,8 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
 - [x] 3. Generate BOM
 - [x] 4. Order components
 - [x] 5. Order PCBs
-- [x] 6. Create placement document
-- [x] 7. Assemble the boards
+- [ ] 6. Create placement document
+- [ ] 7. Assemble the boards
 - [ ] 8. Program the GPIO of the mcu
 - [ ] 9. Test the whole board (LEDs, Sensors, SPI links)
 - [ ] 10. Test the radiation of the onboard antennas
@@ -58,8 +58,6 @@ Here is a preview of the "Base" PCB and the "Ant" PCB:
 | BOM Complete                  | 06 Apr 2020   |
 | Ordered Components            | 10 Apr 2020   |
 | Sent PCB to fabhouse          | 13 Apr 2020   |
-| PCBs Received                 | 15 May 2020   |
-| first assembly                | 22 May 2020   |
 
 ## Onboard sensors
 Two sensors are presents on the PCB :
